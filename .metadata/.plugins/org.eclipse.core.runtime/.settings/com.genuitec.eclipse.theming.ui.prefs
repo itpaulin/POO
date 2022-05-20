@@ -1,12 +1,12 @@
-applyBackground=true
+applyBackground=false
 approved.defs.file.last.changed.time=1649720987000
-configurationInstallLocation=/C\:/Program Files/eclipse/
+configurationInstallLocation=/C\:/dev/eclipse_java/
 ct.upsell.display.after=1652015967659
 eclipse.preferences.version=1
 iconcolormode=primary
 includeThemingInOomph=false
-last.download.attempt.time=1651843170374
-lastConfiguration=1652285983224
+last.download.attempt.time=1652996240566
+lastConfiguration=1653002180171
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray
